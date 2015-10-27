@@ -1,0 +1,26 @@
+---
+componentName:  default
+
+strings:
+    productName:         Pentoo Linux
+    shortProductName:    Pentoo
+    version:             ""
+    shortVersion:        ""
+    versionedName:       Pentoo Linux 
+    shortVersionedName:  Pentoo 
+    bootloaderEntryName: Pentoo Linux 
+    productUrl:          http://www.pentoo.ch
+    supportUrl:          http://forums.pentoo.ch/
+    knownIssuesUrl:      https://github.com/pentoo/
+    releaseNotesUrl:     http://www.pentoo.ch/download/
+
+images:
+    productLogo:         "pentoo-Logo2.png"
+    productIcon:         "pentoo-Logo2.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#2A2C31"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"
