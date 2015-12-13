@@ -4,8 +4,8 @@
 
 EAPI=5
 
-DESCRIPTION="Sabayon Official Calamares base modules"
-HOMEPAGE="http://www.sabayon.org/"
+DESCRIPTION="pPentoo Calamares base modules"
+HOMEPAGE="http://www.pentoo.ch/"
 SRC_URI=""
 LICENSE="CC-BY-SA-4.0"
 SLOT="0"
