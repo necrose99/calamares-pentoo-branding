@@ -1,7 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=pentoo-installer
+Name=pentoo-GUI-installer
 Comment=Install Pentoo! With calamares
 Exec=/usr/sbin/pentoo-installer
 Icon=pentoo
