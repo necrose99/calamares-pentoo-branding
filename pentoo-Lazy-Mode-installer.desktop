@@ -1,24 +1,14 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=pentoo-GUI-installer
-Comment=Install Pentoo! With calamares
-Exec=/usr/sbin/pentoo-installer
-Icon=pentoo
-Path=/root/
-Terminal=true
-StartupNotify=false
-
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Name=Install Sabayon
+Name=pentoo-GUI-installer
 GenericName=System Installer
 TryExec=calamares
 Exec=calamares-pkexec
 Comment=Calamares — System Installer
-Icon=installer-desktop-icon
-Terminal=false
+Icon=pentoo
+Path=/root/
+Terminal=true
 StartupNotify=false
 Categories=Qt;System;
