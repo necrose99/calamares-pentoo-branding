@@ -8,3 +8,17 @@ Icon=pentoo
 Path=/root/
 Terminal=true
 StartupNotify=false
+
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Install Sabayon
+GenericName=System Installer
+TryExec=calamares
+Exec=calamares-pkexec
+Comment=Calamares — System Installer
+Icon=installer-desktop-icon
+Terminal=false
+StartupNotify=false
+Categories=Qt;System;
